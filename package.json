@@ -1,0 +1,26 @@
+{
+  "name": "qnw4dz--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "tslib": "2.6.2",
+    "@emotion/memoize": "0.8.1",
+    "@emotion/is-prop-valid": "1.2.2",
+    "shallowequal": "1.1.0",
+    "stylis": "4.3.2",
+    "@emotion/unitless": "0.8.1",
+    "styled-components": "6.1.11",
+    "scheduler": "0.23.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
